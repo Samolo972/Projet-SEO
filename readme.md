@@ -1,9 +1,9 @@
-# Nom du projet
+# GigaBoulet Project
 
 ## Description
-Une brève description du projet, ce qu'il fait, ses objectifs, etc.
+Ce projet vise à développer et mettre en œuvre des stratégies d'optimisation pour le référencement (SEO) afin d'obtenir les meilleurs classements dans les recherches Google. En utilisant des techniques avancées, nous nous efforçons de surpasser nos concurrents et d'améliorer notre visibilité en ligne.
 
-## Nom de domaine
+## gigaboulet.org
 Le projet est accessible via le lien suivant :  
 [Nom de domaine de votre site web](https://gigaboulet.org)
 
